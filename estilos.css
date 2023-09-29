@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.parte1{ 
+    width: 100%;
+    height: 210px;
+    background-color: rgb(195, 195, 74);
+}
+.parte1 .contenedor1{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+}
+.parte1 .contenedor1 .nombre{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.parte1 .contenedor1 .profesion{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 19px;
+}
