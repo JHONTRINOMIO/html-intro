@@ -78,3 +78,10 @@ background-color: aquamarine;
     .info .enlace2{
         margin-left: 15px;
     }
+    .tabla1{width: 90%;
+        height: auto; 
+        background-color: aquamarine;
+        margin: 2% auto;
+        padding: 20px;
+        text-align: center;}
+    
